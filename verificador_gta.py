@@ -4,18 +4,12 @@ from email.mime.text import MIMEText
 from datetime import datetime
 
 # Configurações do e-mail
-EMAIL_REMETENTE = 'luizfelipemf2001@gmail.com'
-SENHA_APP = 'cymwaueaznipekis'
+EMAIL_REMETENTE = #Email utilizado para enviar os emails
+SENHA_APP = #Senha criada pelo google
 
 # Lista de destinatários
 DESTINATARIOS = [
-    'luizfelipemf2001@gmail.com',
-    'gabrielrangel.araujo.rosa@gmail.com',
-    'Gustavogarciar4@gmail.com',
-    'Claytondavi04@gmail.com',
-    'czanon591@gmail.com',
-    'lucasara1707@gmail.com',
-    # adicione quantos quiser
+    #Emails que irão receber a atualização
 ]
 
 # Função para verificar atualizações no subreddit do GTA Online
