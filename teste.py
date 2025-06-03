@@ -4,14 +4,12 @@ from datetime import datetime
 import socket
 
 # Configurações do e-mail
-EMAIL_REMETENTE = 'luizfelipemf2001@gmail.com'
-SENHA_APP = 'cymwaueaznipekis'
+EMAIL_REMETENTE = #Email utilizado para enviar os emails
+SENHA_APP = #Senha criada pelo google
 
 # Lista de destinatários
 DESTINATARIOS = [
-    'luizfelipemf2001@gmail.com',
-    'czanon592@gmail.com',
-    # adicione quantos quiser
+    #Emails que irão receber a atualização
 ]
 
 # Corpo da mensagem de teste
